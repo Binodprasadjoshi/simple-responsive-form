@@ -27,6 +27,12 @@ input[type="submit"]{
     overflow: hidden;
 }
 
+input{
+    text-align:center;
+ }
+
+
+
 input[type="submit"]:hover{
     border: 1px solid blue;
     font-size: 16px;
@@ -39,6 +45,7 @@ input[type="url"], select{
 
 select{
     width: 166px;
+    text-align:center;
 }
 
 #flex{
